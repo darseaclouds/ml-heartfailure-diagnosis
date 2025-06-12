@@ -1,5 +1,6 @@
 # ml-heartfailure-diagnosis
-# Heart Failure Prediction from Chest X-Ray Embeddings
+# Heart Failure Prediction from Chest X-Rays
+## Leveraging Deep Learning and Advances in Computer Visions for Equitable Healthcare 
 
 **Tools Used:**  
 `TensorFlow` · `scikit-learn` · `Google Cloud Platform (GCP)`
